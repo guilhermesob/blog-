@@ -212,7 +212,7 @@
         <blockquote class="blockquote">
         </blockquote>
         
-        
+        <!--olhar se e preciso isso. --> 
       <!-- <article class="blog-post"> 
         <h2 class="blog-post-title mb-1">New feature</h2>
         <p class="blog-post-meta">December 14, 2020 by <a href="#">Chris</a></p>
@@ -280,7 +280,7 @@
 <footer class="blog-footer">
   <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
   <p>
-    <a href="#">Back to top</a>
+    <a href="#">Volta ao inicio</a>
   </p>
 </footer>
 
