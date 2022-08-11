@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="pt-br">
   <head>
+    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
@@ -9,10 +10,13 @@
     <title>Blog sobre Hanceniase</title>
 
     <link rel="canonical" href="https://getbootstrap.com/docs/5.2/examples/blog/">
+    
 <!-- CSS only -->
+    
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
 
     <!-- Favicons -->
+    
 <link rel="apple-touch-icon" href="/docs/5.2/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
 <link rel="icon" href="/docs/5.2/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
 <link rel="icon" href="/docs/5.2/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
@@ -34,6 +38,7 @@
     
 }
 @keyframes nome {
+  
     0% {
         filter: saturate(1) hue-rotate(0deg);
     }
@@ -96,7 +101,9 @@
 
     
     <!-- Custom styles for this template -->
+    
     <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
+    
     <!-- Custom styles for this template -->
     <link href="blog.css" rel="stylesheet">
   </head>
@@ -146,7 +153,9 @@
       <p class="lead mb-0"><a href="#" class="text-white fw-bold">Continue lendo...</a></p>
     </div>
   </div>
+  
 <!-- icone-->
+  
   <div class="row mb-2">
     <div class="col-md-6">
       <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
@@ -161,6 +170,7 @@
           <svg class="bd-placeholder-img" width="200" height="250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
 
           <!-- icone-->
+          
         </div>
       </div>
     </div>
@@ -240,6 +250,7 @@
             <br>
 
     </div>
+        
       <nav class="blog-pagination" aria-label="Pagination">
         <a class="btn btn-outline-primary rounded-pill" href="#">Mais antigo</a>
         <a class="btn btn-outline-secondary rounded-pill disabled">Mais novo</a>
@@ -248,6 +259,7 @@
     </div>
 
 <!--menu lateral -->
+      
     <div class="col-md-4">
       <div class="position-sticky" style="top: 2rem;">
         <div class="p-4 mb-3 bg-light rounded">
